@@ -1,33 +1,33 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
-    "password": "",
+    "username": "vroom",
+    "password": "abhi@2012",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "bestlapata.fun",
+    "port": 25566,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
-    "x": 0,
+    "x": 546,
     "y": 100,
-    "z": 0
+    "z": 788
   },
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "abhi@2012"
     },
     "anti-afk": {
       "enabled": true,
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
